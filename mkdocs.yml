@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "GLM-5 for ": glm-5-for-coding-revolutionizing-software-developm.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
